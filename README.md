@@ -10,4 +10,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
-![C#](https://developer.fedoraproject.org/tech/languages/csharp/about.html)&nbsp;
+## :mortar_board: Formação Academica
+
+Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
+:-- | :-- | :--: | :--: | :--:
+[Cursando Curso Superior em Tecnologia em analize e desenvolvimento der Sistemas]IFPR- Campus União da Vitória |https://uniao.ifpr.edu.br/|Superior|ViewCode|Gratuito
