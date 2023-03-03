@@ -14,4 +14,4 @@
 
 Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 :-- | :-- | :--: | :--: | :--:
-[Cursando Curso Superior em Tecnologia em analize e desenvolvimento der Sistemas]IFPR- Campus União da Vitória |https://uniao.ifpr.edu.br/|Superior|ViewCode|Gratuito
+Curso Superior em Tecnologia em Analise e Desenvolvimento der Sistemas - IFPR |https://uniao.ifpr.edu.br/|Superior|Federal
